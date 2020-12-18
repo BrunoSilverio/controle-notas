@@ -24,7 +24,7 @@ meio ponto.
 > Baixar SPIM: A MIPS32 Simulator.
 http://spimsimulator.sourceforge.net/
 
-> Zerar os registradores e as memorias.
+> Zerar os registradores.
 
 > Carregar o arquivo.s
 
